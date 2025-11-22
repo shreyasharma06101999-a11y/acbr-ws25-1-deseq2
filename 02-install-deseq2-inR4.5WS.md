@@ -8,3 +8,7 @@ installing `BiocManager` from CRAN (comprehensive R arcchival network) using `in
 ```{R}
 install.packages("BiocManager")
 ```
+install `Biostrings` bioconductor package using `BiocManager::instal()` function.
+```{R}
+BiocManager::install("Biostrings")
+```
