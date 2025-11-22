@@ -8,5 +8,5 @@ R
 # inside R
 ```{R}
 library("DESeq2")
-library("cluster profiler")
+library("clusterProfiler")
 ```
